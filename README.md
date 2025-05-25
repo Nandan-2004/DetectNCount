@@ -22,13 +22,12 @@ This project implements an object detection and counting system using deep learn
 ```bash
 pip install -r requirements.txt
 ```
-## Usage
-```bash
-python DetectNCount.py
-```
-
 ## Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/DetectNCount.git
    cd DetectNCount
+## Usage
+```bash
+python DetectNCount.py
+```

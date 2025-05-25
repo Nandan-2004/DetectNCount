@@ -1,7 +1,5 @@
 # DetectNCount
 
-# Object_detection_and_Counting
-
 ## Overview
 This project implements an object detection and counting system using deep learning techniques. The system detects various objects in images or video frames and counts their occurrences in real-time or batch processing.
 

@@ -1,5 +1,5 @@
 # DetectNCount
-Object_detection_and_Counting
+
 # Object_detection_and_Counting
 
 ## Overview

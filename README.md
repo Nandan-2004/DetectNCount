@@ -18,20 +18,33 @@ This project implements an object detection and counting system using deep learn
 - NumPy
 - Other dependencies listed in `requirements.txt`
 
-## Install dependencies
-```bash
-pip install -r requirements.txt
-```
 ## Installation
-1. Clone the repository:
+1. Clone the repository
    ```bash
    git clone https://github.com/Nandan-2004/DetectNCount.git
    cd DetectNCount
+   ```
+   
+2. (Optional) Create a virtual environment
+   ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+3. Install dependencies
+   ```bash
    pip install -r requirements.txt
+   ```
 
 ## Usage
 ```bash
 python DetectNCount.py
 ```
+
+## License
+
+MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+Feel free to fork the repository, submit issues, or open pull requests. Contributions are welcome!

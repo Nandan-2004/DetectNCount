@@ -18,6 +18,15 @@ This project implements an object detection and counting system using deep learn
 - NumPy
 - Other dependencies listed in `requirements.txt`
 
+## Install dependencies
+```bash
+pip install -r requirements.txt
+```
+## Usage
+```bash
+python DetectNCount.py
+```
+
 ## Installation
 1. Clone the repository:
    ```bash
